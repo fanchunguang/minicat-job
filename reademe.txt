@@ -1,0 +1,4 @@
+demo1和demo2为应用程序，放到 /Users/webapps目录下
+访问方式为
+	http://localhost:8080/demo1
+	http://localhost:8080/demo2
